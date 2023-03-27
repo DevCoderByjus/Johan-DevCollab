@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+}
+
+iframe {
+    border-radius: 60px;
+}
+
+body {
+    background-color: #4285F4;
+}
+
+img {
+    border-radius: 75px;
+}
+
+#Bio {
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+}
